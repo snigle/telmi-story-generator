@@ -1,0 +1,32 @@
+{
+  "s0": {
+    "title": "Introduction",
+    "notes": "Bienvenue dans la Forêt Enchantée ! Tu te tiens à l'orée d'un bois mystérieux rempli de lucioles scintillantes. Devant toi, le chemin se sépare en deux. Un sentier lumineux s'enfonce vers la droite, tandis qu'un petit pont de bois traverse une rivière tranquille sur la gauche. Quel chemin souhaites-tu explorer ?",
+    "color": "green"
+  },
+  "s1": {
+    "title": "Choix 1 : Le Sentier Lumineux",
+    "notes": "Suivre le sentier lumineux vers la droite ✨",
+    "color": "yellow"
+  },
+  "s2": {
+    "title": "Choix 2 : Le Pont de Bois",
+    "notes": "Traverser le pont de bois vers la gauche 🌉",
+    "color": "yellow"
+  },
+  "s3": {
+    "title": "Conséquence : Le Sentier Lumineux",
+    "notes": "Tu décides d'emprunter le sentier lumineux. Les lucioles s'envolent joyeusement autour de toi pour éclairer tes pas. Au bout du chemin, tu découvres une magnifique clairière où dort un adorable petit faon. Il ouvre les yeux et te salue d'un doux hochement de tête. Quelle belle rencontre !",
+    "color": "pink"
+  },
+  "s4": {
+    "title": "Conséquence : Le Pont de Bois",
+    "notes": "Tu choisis de traverser le pont de bois. L'eau coule doucement sous tes pieds en faisant un joli bruit musical. De l'autre côté de la rive, un petit écureuil t'attend sur une branche avec une jolie noisette dorée qu'il te tend avec un grand sourire. C'est un cadeau merveilleux !",
+    "color": "pink"
+  },
+  "s5": {
+    "title": "Épilogue",
+    "notes": "Après cette incroyable journée d'exploration, le soleil commence doucement à se coucher, colorant le ciel de magnifiques teintes violettes et orange. Rempli de joie et de merveilleux souvenirs, tu salues une dernière fois tes nouveaux amis de la forêt et tu reprends le chemin de la maison. Fin de ton aventure !",
+    "color": "blue"
+  }
+}
